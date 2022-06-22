@@ -7,3 +7,5 @@ My name is Sami SARI !
 [![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sami-sari-b09380222/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=link)](https://twitter.com/samis_10)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=link)](https://medium.com/@ssari3818)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=link)](https://public.tableau.com/app/profile/samisari#!/?newProfile=&activeTab=0)
+[![Tableau Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=whitee&link=link)](https://share.streamlit.io/)
