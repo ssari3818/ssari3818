@@ -28,9 +28,9 @@
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
 <li>👩‍🎓 <strong>Data Scientist </strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
 <li>📙 Check out my profile on <a href="https://www.linkedin.com/in/sami-sari-/">Linkedin</a></li>
-  
+ <div> 
   ![Snake animation](https://github.com/ssari3818/ssari3818/blob/output/github-contribution-grid-snake.svg)
-
+ </div>
   
 ## 🎨  Data Visualization
 
