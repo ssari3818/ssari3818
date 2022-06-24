@@ -20,7 +20,18 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=link)](https://medium.com/@ssari3818)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=link)](https://public.tableau.com/app/profile/samisari#!/?newProfile=&activeTab=0)
 
-
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/sami-sari-b09380222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/samis_10" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@ssari3818" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: ssari3818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/ssari3818/ssari3818/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <h2>⚡️ A Few Quick Facts </h2>
@@ -28,10 +39,7 @@
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
 <li>👩‍🎓 <strong>Data Scientist </strong> student, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
 <li>📙 Check out my profile on <a href="https://www.linkedin.com/in/sami-sari-/">Linkedin</a></li>
- <div> 
-  ![Snake animation](https://github.com/ssari3818/ssari3818/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
+
 ## 🎨  Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
